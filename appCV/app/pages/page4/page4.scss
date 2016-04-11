@@ -1,0 +1,70 @@
+.page4 {
+
+
+
+			.toolbar-background{
+	font-size:300px;
+	background: url("kl.jpg");
+	 background-repeat: no-repeat;
+	background-size: 100% ;
+	border-style:none
+	
+	}
+	
+
+		ion-content{
+	background: url("kl.jpg");
+ background-repeat: no-repeat;
+	background-size: 100% 100%;
+	border:  none ;
+	}
+		
+		ion-item{
+		
+		background: transparent;
+		 border:  none ;
+		
+		}
+		
+		.item-inner{
+		
+		background:transparent;
+		border:  none ;
+		}
+		
+		ion-list-header{
+		
+		 border: 2px solid #E6E6E6;
+		 
+     text-align: center;
+		font-size:15px;
+
+		
+		b{
+				margin-top: 200px;
+		
+		}
+		
+		}
+		
+		
+		
+			.toolbar-title{
+  
+		font-size:30px;
+
+	
+	}
+		
+		ion-list{
+		
+		border:  none ;
+		}
+		
+		
+		ion-item.item{
+		
+			 border:  none ;
+		
+		}
+}
